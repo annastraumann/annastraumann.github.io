@@ -1,0 +1,4 @@
+User-agent: * 
+#AdsBot explicit excluded because AdsBot crawlers must be named explicitly
+User-agent: AdsBot-Google
+Disallow: /
